@@ -37,7 +37,7 @@ function App() {
             <h1 className="text-4xl font-semibold">Dashboard</h1>
             <div className="flex items-center space-x-4">
               <img className="w-10 h-10 rounded-full" src="https://via.placeholder.com/40" alt="Profile" />
-              <div className="text-right">
+              <div className="text-left">
                 <p className="font-semibold">Student Name</p>
                 <p className="text-sm text-gray-400">studentemail@gmail.com</p>
               </div>
